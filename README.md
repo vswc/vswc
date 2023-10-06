@@ -15,6 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
 </p>
 
+## &nbsp;Learning...
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+</p>
+
 ## &nbsp;Tools I use
 
 <p>
