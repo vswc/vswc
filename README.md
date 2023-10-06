@@ -1,7 +1,7 @@
-## Full Stack Developer from the UK.
+# Full Stack Developer from the UK.
 ---
 
-## &nbsp;Languages I know
+# &nbsp;Languages I know
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -15,18 +15,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
 </p>
 
-## &nbsp;Learning...
+# &nbsp;Learning...
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </p>
 
-## &nbsp;Tools I use
+# &nbsp;Tools I use
 
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </p>
